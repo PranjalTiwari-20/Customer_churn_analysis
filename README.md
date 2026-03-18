@@ -173,6 +173,14 @@ Encourage users to switch to long-term contracts
 <img width="1296" height="741" alt="Screenshot 2026-03-18 205307" src="https://github.com/user-attachments/assets/80c7b64a-d126-45a7-81b9-d57f8893e902" />
 
 
+🔴 Red → Represents high churn / high-risk customers
+
+🟠 Orange → Represents moderate churn / medium risk
+
+🟢 Green → Represents low churn / safe customers
+
+🔵 Blue → Represents neutral or comparison categories
+
 🚀 Conclusion
 
 This project demonstrates how data analytics and machine learning can be combined with cloud tools and visualization to solve real-world business problems. It provides actionable insights to reduce churn and improve customer retention strategies.
