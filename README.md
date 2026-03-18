@@ -132,16 +132,22 @@ Customers with high payment delays have a churn rate of ~76.6%, while customers 
 
 🔴 1. Payment Delay (STRONGEST INSIGHT)
 Customers with high payment delays have a churn rate of ~76.6%, while customers with low delays have only ~10.07% churn, making payment behavior the strongest predictor of churn.
+
 🔴 2. Contract Type
 Customers on monthly contracts have the highest churn rate (~51.6%), compared to annual (~46.2%) and quarterly (~44.0%) plans.
+
 🔴 3. Subscription Plan
 Basic plan customers show the highest churn (~48.3%), followed by standard (~47.3%) and premium (~46.5%) users.
+
 🔴 4. Support Calls Trend
 Churn rate increases significantly after 4–5 support calls, indicating that frequent support interactions are a strong signal of customer dissatisfaction.
+
 🔴 5. Customer Segment
 Low-value customers have a higher churn rate (~52.18%) compared to high-value customers (~43.19%).
+
 🔴 6. Age Group
 Senior customers show the highest churn (~49.6%), while adults (~44.4%) and young users (~44.9%) have relatively lower churn rates.
+
 🔴 7. Model Insight (VERY IMPORTANT)
 After removing data leakage from the 'Payment Delay' feature, model accuracy dropped from ~99% to ~78%, resulting in a more reliable and generalizable model.
 
